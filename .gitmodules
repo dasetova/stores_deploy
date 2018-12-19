@@ -1,0 +1,6 @@
+[submodule "stores_frontend"]
+	path = stores_frontend
+	url = https://github.com/dasetova/stores_frontend
+[submodule "stores_backend"]
+	path = stores_backend
+	url = https://github.com/dasetova/stores_backend
